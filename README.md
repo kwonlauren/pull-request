@@ -1,2 +1,2 @@
 # pull-request
-Gardent Project of SNU
+Garden Project of SNU
